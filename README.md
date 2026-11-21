@@ -50,6 +50,9 @@ Beide Größen passen in **denselben Rahmen**:
 | Passepartout | herausnehmen | im Rahmen lassen |
 | Kosten Druck | höher | niedriger |
 
+**Hinweis:** Für die **kleine Variante mit Passepartout (70 × 50 cm)** passt auch der
+**IKEA RÖDALM 61 × 91 cm** – das Passepartout auch dort im Rahmen lassen.
+
 ## Downloads
 
 | Motiv | Groß (100 × 70 cm) | Klein (70 × 50 cm) |
@@ -77,7 +80,8 @@ Die Dateien sind groß (bis über 100 MB) – der Download kann etwas dauern.
 5. **Bestellen.** Eine Warnung zur Auflösung sollte nicht kommen –
    die Dateien haben volle 300 dpi.
 6. **Rahmen:** RÖDALM 70 × 100 cm bei IKEA. Beim großen Poster das
-   Passepartout herausnehmen, beim kleinen drinlassen.
+   Passepartout herausnehmen, beim kleinen drinlassen. Für das kleine Poster
+   passt auch RÖDALM 61 × 91 cm (mit Passepartout).
 
 Tipp: Lade die Datei am besten am Computer hoch, nicht am Handy –
 manche Apps verkleinern große Bilder beim Hochladen.
