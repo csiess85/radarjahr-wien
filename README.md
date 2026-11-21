@@ -4,7 +4,7 @@ Ein Jahr Flugverkehr rund um Wien, aufgezeichnet mit einem eigenen
 ADS-B-Radarempfänger (17. November 2025 – 16. November 2026),
 als Poster für den IKEA-Rahmen RÖDALM 70 × 100 cm.
 
-Drei Motive, jedes in zwei Größen. Datei herunterladen, bei einem
+Drei Motive (eines davon auch ohne Titel), jedes in zwei Größen. Datei herunterladen, bei einem
 Posterdienst hochladen, fertig.
 
 ---
@@ -30,6 +30,11 @@ orange unter 3 000 ft · rosa 3 000–10 000 ft · violett 10 000–25 000 ft ·
 Im Stil einer Luftfahrtkarte: alle Sichtflüge als dunkelblaue Linien
 auf hellem Papierton, mit Flüssen, Seen und Grenzen.
 
+**Variante ohne Titel:** dasselbe Motiv ohne den Textblock links oben –
+nur Karte, für alle, die es ruhiger mögen.
+
+![VFR Ostregion ohne Titel](vorschau/VFR-Ostregion-ohne-Titel.jpg)
+
 ---
 
 ## Welche Größe nehme ich?
@@ -52,6 +57,7 @@ Beide Größen passen in **denselben Rahmen**:
 | Radarjahr Wien | [herunterladen](https://github.com/csiess85/radarjahr-wien/releases/latest/download/Radarjahr-Wien_100x70cm_ohne-Passepartout_300dpi.png) | [herunterladen](https://github.com/csiess85/radarjahr-wien/releases/latest/download/Radarjahr-Wien_70x50cm_mit-Passepartout_300dpi.png) |
 | Ein Jahr über Wien | [herunterladen](https://github.com/csiess85/radarjahr-wien/releases/latest/download/Ein-Jahr-ueber-Wien_100x70cm_ohne-Passepartout_300dpi.png) | [herunterladen](https://github.com/csiess85/radarjahr-wien/releases/latest/download/Ein-Jahr-ueber-Wien_70x50cm_mit-Passepartout_300dpi.png) |
 | VFR Ostregion | [herunterladen](https://github.com/csiess85/radarjahr-wien/releases/latest/download/VFR-Ostregion_100x70cm_ohne-Passepartout_300dpi.png) | [herunterladen](https://github.com/csiess85/radarjahr-wien/releases/latest/download/VFR-Ostregion_70x50cm_mit-Passepartout_300dpi.png) |
+| VFR Ostregion – ohne Titel | [herunterladen](https://github.com/csiess85/radarjahr-wien/releases/latest/download/VFR-Ostregion-ohne-Titel_100x70cm_ohne-Passepartout_300dpi.png) | [herunterladen](https://github.com/csiess85/radarjahr-wien/releases/latest/download/VFR-Ostregion-ohne-Titel_70x50cm_mit-Passepartout_300dpi.png) |
 
 Die Dateien sind groß (bis über 100 MB) – der Download kann etwas dauern.
 
